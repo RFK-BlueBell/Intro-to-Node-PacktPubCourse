@@ -1,5 +1,5 @@
 {
-  "name": "nodefiles",
+  "name": "intro-to-nodejs-packt",
   "version": "10.15.0",
   "description": "Simple Web App",
   "main": "hello.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flatplanet/Intro-to-Node.git"
+    "url": "git+https://github.com/RFK-BlueBell/Intro-to-Node-PacktPubCourse.git"
   },
   "author": "John Elder",
   "license": "MIT",
